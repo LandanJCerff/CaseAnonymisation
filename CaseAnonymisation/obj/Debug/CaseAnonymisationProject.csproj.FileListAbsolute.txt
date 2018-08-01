@@ -1,0 +1,9 @@
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\obj\Debug\CaseAnonymisationProject.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\obj\Debug\CaseAnonymisationProject.csproj.ResolveComReference.cache
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\bin\Debug\CaseAnonymisation.exe.config
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\bin\Debug\CaseAnonymisation.exe
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\bin\Debug\CaseAnonymisation.pdb
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\obj\Debug\CaseAnonymisation.exe
+C:\Visual Studio 2015\Projects\CaseAnonymisation\CaseAnonymisation\obj\Debug\CaseAnonymisation.pdb

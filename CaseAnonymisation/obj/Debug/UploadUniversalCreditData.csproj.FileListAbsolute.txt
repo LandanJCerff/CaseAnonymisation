@@ -1,0 +1,15 @@
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\UploadUniversalCreditData.exe.config
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\UploadUniversalCreditData.exe
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\UploadUniversalCreditData.pdb
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\UserLogonReporter.exe
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\UserLogonReporter.pdb
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\obj\Debug\UploadUniversalCreditData.csprojResolveAssemblyReference.cache
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\obj\Debug\UploadUniversalCreditData.csproj.ResolveComReference.cache
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\obj\Debug\UploadUniversalCreditData.exe
+C:\Users\x.jolyonmeredith\Documents\Visual Studio 2013\Projects\CrmAdminTools\UploadUniversalCreditData\obj\Debug\UploadUniversalCreditData.pdb
