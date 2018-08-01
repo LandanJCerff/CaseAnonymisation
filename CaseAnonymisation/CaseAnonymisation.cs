@@ -18,10 +18,10 @@ namespace CaseAnonymisation
 
         static void Main(string[] args)
         {
-            //string env = args[0];
-            string env = "sandbox4";
+            string env = args[0];
+           // string env = "";
 
-           /*FileStream ostrm;
+           FileStream ostrm;
             StreamWriter writer;
             ostrm = new FileStream("C:/CaseAnonApplication/CaseAnonymisation/Logs/Logs.txt", FileMode.OpenOrCreate, FileAccess.Write);
             writer = new StreamWriter(ostrm);
@@ -31,14 +31,14 @@ namespace CaseAnonymisation
             FileStream exStream;
             StreamWriter exWrite;
             exStream = new FileStream("C:/CaseAnonApplication/CaseAnonymisation/Logs/Exceptions.txt", FileMode.OpenOrCreate, FileAccess.Write);
-            exWrite = new StreamWriter(exStream);*/
+            exWrite = new StreamWriter(exStream);
 
-            //if (args.Length > 0)
+            if (args.Length > 0)
             {
                 AuthenticationCredentials authCredentials = new AuthenticationCredentials();
                 Uri organizationUri = new Uri("https://shgl-" + env + ".api.crm4.dynamics.com/XRMServices/2011/Organization.svc");
-                authCredentials.ClientCredentials.UserName.UserName = "landan.cerff@shgroup.org.uk"; // sa_crmbackgound_prod@shgroup.org.uk
-                authCredentials.ClientCredentials.UserName.Password = "Ep1c.tul1p1"; //P6_H=Do_pi|p
+                authCredentials.ClientCredentials.UserName.UserName = ""; 
+                authCredentials.ClientCredentials.UserName.Password = ""; 
                 ClientCredentials credentials = authCredentials.ClientCredentials;
                 OrganizationServiceProxy proxy = new OrganizationServiceProxy(organizationUri, null, credentials, null);
                 proxy.Timeout = TimeSpan.FromMinutes(5000);
@@ -59,7 +59,7 @@ namespace CaseAnonymisation
 
                 try
                 {
-                    //Console.SetOut(writer);
+                    Console.SetOut(writer);
                     Console.Write("Anonymisation Started... \n");
 
                     t1.Start();
@@ -80,12 +80,12 @@ namespace CaseAnonymisation
                     Console.WriteLine(e.Message);
                     Console.Write("Exception: {0} \n Exception occured ", e.ToString());
 
-                  /*  Console.SetOut(oldOut);
+                    Console.SetOut(oldOut);
                      writer.Close();
                      ostrm.Close();
                      exStream.Close();
                      exWrite.Close();
-                    throw new InvalidPluginExecutionException(e.Message);*/
+                    throw new InvalidPluginExecutionException(e.Message);
                     throw;
                 }
             }
