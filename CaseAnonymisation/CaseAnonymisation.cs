@@ -30,7 +30,7 @@ namespace CaseAnonymisation
             if (args.Length > 0)
             {
                 AuthenticationCredentials authCredentials = new AuthenticationCredentials();
-                Uri organizationUri = new Uri("https://shgl-" + env + ".api.crm4.dynamics.com/XRMServices/2011/Organization.svc");
+                Uri organizationUri = new Uri("https://" + env + ".api.crm4.dynamics.com/XRMServices/2011/Organization.svc");
                 authCredentials.ClientCredentials.UserName.UserName = ""; 
                 authCredentials.ClientCredentials.UserName.Password = ""; 
                 ClientCredentials credentials = authCredentials.ClientCredentials;
